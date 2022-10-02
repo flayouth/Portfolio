@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(178, 191, 195);
+    margin: auto;
+    border: 50px; 
+    
+  }
+  
+  h1 {
+    color: rgb(101, 76, 76);
+    text-align: left;
+    box-sizing: border-box;
+    font-style: italic;
+    font-size: 50px;
+    text-shadow: black;
+
+    
+  }
+  
+  p {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-display: 50px;
+    text-shadow: darkgrey;
+    font-size: 30px;
+    width: 500px;
+    margin: auto;
+    border: 3px solid #b5c1a4
+  }
+
+  section {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 45px;
+    width: 300px;   
+    text-align: center;
+
+  }
+
+  
