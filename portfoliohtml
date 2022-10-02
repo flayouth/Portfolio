@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="=Keenan Goode">
+    <link rel="stylesheet" type="text/css" href="portfoliostyle.css" />
+</head>
+<body>
+
+
+  <header>
+    <h1>Keenan Goode</h1>
+    <p>
+       This is my personal porfolio to display all web applications and projects throughout my career as a developer  
+    </p>
+  </header>
+
+  <ul class="nav">
+    <li><a href="default.asp">Home</a></li>
+    <li><a href="news.asp">Projects</a></li>
+    <li><a href="contact.asp">Contact</a></li>
+    <li><a href="about.asp">About me</a></li>
+  </ul>
+
+
+  <section>
+  
+  </section>
+  </div>
+</main>
+</styl>
